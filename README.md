@@ -4,6 +4,8 @@
 
 I'm a Computer Science & AI student at Benha University with a strong foundation in backend development, microservices architecture, and RESTful API design. I love solving complex problems through clean code and modern frameworks, and I'm constantly learning to level up my skills.
 
+📄 **[View My CV](https://drive.google.com/file/d/1XaejdMd2hh2sltCdLCR_-434eAY5ctHE/view?usp=sharing)**
+
 ---
 
 ## 🚀 About Me
@@ -93,6 +95,7 @@ A complete library management solution following MVC architecture with secure ro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-tamer-a5a61a28a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma7amed123x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma7medtamer123xx@gmail.com)
+[![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1XaejdMd2hh2sltCdLCR_-434eAY5ctHE/view?usp=sharing)
 
 ---
 
