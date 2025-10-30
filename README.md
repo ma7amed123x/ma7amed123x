@@ -45,7 +45,7 @@ REST APIs • Microservices • MVC Architecture • CRUD Operations • Authent
 
 ## 💼 Featured Projects
 
-### 🎫 [Ticket Buying Backend System](https://github.com/ma7amed123x/ticket-buying-backend-project-with-spring-boot)
+### 🎫 [Ticket Buying Backend System]([https://github.com/ma7amed123x/ticket-buying-backend-project-with-spring-boot](https://github.com/ma7amed123x/aizen-microservices-project))
 A production-ready microservices-based ticket booking platform built with modern backend technologies.
 
 **Tech Stack:** Spring Boot 3, Spring Cloud Gateway, Keycloak, MySQL, Docker, Kafka, Resilience4j
