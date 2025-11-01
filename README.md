@@ -74,6 +74,17 @@ A complete library management solution following MVC architecture with secure ro
 
 ---
 
+### 👥 [Employee Management System](https://github.com/ma7amed123x/employee-management-system)
+A full-stack CRUD web application for managing employee records with an intuitive web interface.
+
+**Tech Stack:** Spring Boot, Thymeleaf, Spring Data JPA, MySQL, Flyway, Docker
+
+**Key Features:**
+- Complete MVC implementation with form-based CRUD operations
+- Database migrations with Flyway for schema version control
+- Clean separation of concerns with Service and Repository layers
+- Thymeleaf templates for dynamic server-side rendering
+
 ## 📊 GitHub Stats
 
 ![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ma7amed123x&show_icons=true&theme=radical&hide_border=true&count_private=true)
