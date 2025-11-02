@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=100&section=header" width="100%"/>
+</div>
+
 # Hi there, I'm Mohammed Tamer 👋
 
 **Junior Backend Developer** passionate about building scalable, secure, and efficient systems using **Java** and **Spring Boot**.
@@ -85,9 +89,8 @@ A full-stack CRUD web application for managing employee records with an intuitiv
 - Clean separation of concerns with Service and Repository layers
 - Thymeleaf templates for dynamic server-side rendering
 
-## 📊 GitHub Stats
 
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ma7amed123x&show_icons=true&theme=radical&hide_border=true&count_private=true)
+---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ma7amed123x&layout=compact&theme=radical&hide_border=true)
 
@@ -106,6 +109,7 @@ A full-stack CRUD web application for managing employee records with an intuitiv
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-tamer-a5a61a28a)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ma7amed123x)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ma7medtamer123xx@gmail.com)
+
 [![CV](https://img.shields.io/badge/Download_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1XaejdMd2hh2sltCdLCR_-434eAY5ctHE/view?usp=sharing)
 
 ---
@@ -113,3 +117,7 @@ A full-stack CRUD web application for managing employee records with an intuitiv
 ⭐️ *"Clean code always looks like it was written by someone who cares."* – Robert C. Martin
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on backend projects or discuss tech!
+---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24&height=100&section=footer" width="100%"/>
+</div>
